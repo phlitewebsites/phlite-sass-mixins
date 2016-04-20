@@ -1,0 +1,19 @@
+{
+  "name": "phlite-sass-mixins",
+  "version": "0.0.0",
+  "description": "",
+  "main": "index.scss",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/phlitewebsites/phlite-sass-mixins.git"
+  },
+  "author": "Dan Hayden <dhayden09@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/phlitewebsites/phlite-sass-mixins/issues"
+  },
+  "homepage": "https://github.com/phlitewebsites/phlite-sass-mixins#readme"
+}
