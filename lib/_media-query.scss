@@ -2,6 +2,7 @@
   $type: type-of($min);
   $medium: 768px !default;
   $large: 1024px !default;
+  $query: '';
 
   @if $type == number {
     $query: '(min-width: #{$min})';
